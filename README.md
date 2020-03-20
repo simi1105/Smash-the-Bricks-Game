@@ -1,1 +1,2 @@
-Smash The Bricks Game
+# Smash The Bricks Game
+A game created using Java in Eclipse 
